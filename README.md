@@ -61,5 +61,4 @@ In this Superstore Sales Analysis portfolio project, we delve into the sales dat
 * **SQL** for analyzing business problem statement
 * **Power BI** for visualization of business problem statement
 * **Word document** for documentation
-## Thank You Note
-Thank you for exploring this portfolio project! For more in-depth analysis, please refer to the SQL and Power BI files provided.
+
